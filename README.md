@@ -1,4 +1,4 @@
-### Oii! Eu sou o João, mas pode me chamar de ko
+### Oii! Eu sou o ko!!
 <div>
   <a href="https://github.com/koohzin">
   <img height="149em" src="https://github-readme-stats.vercel.app/api?username=koohzin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
