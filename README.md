@@ -1,6 +1,6 @@
 ### Oii! Eu sou o ko!!
 
-<p style=font-weight:bold>Desenvolvedor FullStack - JavaScript | NodeJS | ReactJS</p>
+<p>Desenvolvedor FullStack - JavaScript | NodeJS | ReactJS</p>
 <div>
   <a href="https://portfolioko.netlify.app">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=koohzin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
