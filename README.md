@@ -8,8 +8,8 @@
   <img align="center" alt="ko-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ko-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ko-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ko-NodeJs" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/node-js.png">
-  <img align="center" alt="ko-ReactJs" height="30" width="40" src="https://img.icons8.com/office/16/000000/react.png">
+  <img align="center" alt="ko-NodeJs" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/node-js.png">
+  <img align="center" alt="ko-ReactJs" height="40" width="40" src="https://img.icons8.com/office/16/000000/react.png">
   <img align="right" alt="ko-img" height="150" width="150" src="https://cdn.discordapp.com/attachments/783369920791838721/877636226134466621/ezgif.com-gif-maker.gif">
   
   
